@@ -1,6 +1,6 @@
 name: moxietechtalks
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.73309
 typography_spectrum: 0.7859
 title: Moxie Tech Talks
 cta:
@@ -23,7 +23,7 @@ color:
     - '#80ffff'
     - '#15406a'
   brandStrength: 1
-  lightness: 1
+  lightness: 0
   saturation: 0.5
-  rhythmicContrast: 0.5
+  rhythmicContrast: 0.75
 purpose: []
